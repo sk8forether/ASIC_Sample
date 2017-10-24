@@ -1,0 +1,28 @@
+Output started at: 10/24/17 03:25:33
+
+--> CTestbench::Init
+Testbench now enabled.
+
+Initializing Testbench
+Output started at: 10/24/17 03:25:33
+
+	Visual Studio Output window now disabled, DBGTrace now disabled, 
+	DBGPrint now enabled, DBGVerbose now disabled,
+	Output to log file now enabled.
+Initialization done.
+Initializing the ISMECA module...
+	Initializing the Tool module
+	Tool series: 1, unit: 15
+	Initializing the Comm module
+ERROR occured at PTC::Init_Tool: 
+
+ERROR CODE: 10 - You know you don't have hardware...  Moving along then.
+Please contact Software Engineering.
+
+Connect Comm for I2C: (This takes longer the first time.)
+Initialization done.
+Initializing the BF ASIC...
+	Initializing the Generic ASIC module
+	Initializing DeviceCore
+Initialization done.
+Output ended at: 10/24/17 03:25:33
